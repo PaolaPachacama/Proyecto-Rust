@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\yansi-d581edbd91ac4f06.rmeta: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\libyansi-d581edbd91ac4f06.rlib: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\yansi-d581edbd91ac4f06.d: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs:

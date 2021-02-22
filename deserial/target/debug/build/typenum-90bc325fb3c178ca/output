@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\build\typenum-90bc325fb3c178ca\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\build\typenum-90bc325fb3c178ca\out\op.rs

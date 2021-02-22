@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\pear-7ba3626f311469d4.rmeta: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\libpear-7ba3626f311469d4.rlib: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\User\Desktop\EJEMPLOS RUST\deserial\target\debug\deps\pear-7ba3626f311469d4.d: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs
+
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\lib.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\macros.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\input.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\result.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\debug.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\combinators.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\pear-0.1.4\src\parsers.rs:
